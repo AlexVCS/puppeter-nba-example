@@ -13,5 +13,10 @@
   "types": "module",
   "dependencies": {
     "puppeteer": "^24.16.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.2.1",
+    "@types/puppeteer": "^5.4.7",
+    "typescript": "^5.9.2"
   }
 }
